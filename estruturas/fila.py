@@ -1,5 +1,6 @@
 from estruturas.no import No
 
+# Criei uma estrutura chamada Fila
 class Fila:
     def __init__(self):
         self.inicio = None
