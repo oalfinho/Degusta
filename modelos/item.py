@@ -1,3 +1,4 @@
+# Classe item serbe para representar um item de um pedido, com nome, valor e quantidade.
 class Item:
     def __init__(self, nome, valor, quantidade=1):
         self.nome = nome
